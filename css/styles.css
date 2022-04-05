@@ -157,6 +157,10 @@ body {
   text-decoration: none;
 }
 
+.address-list-link.address {
+  color: var(--primary-white-color);
+}
+
 .address-list-link:hover,
 .address-list-link:focus {
   color: var(--accent-color);
